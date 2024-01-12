@@ -27,5 +27,3 @@ setuptools.setup(
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src")
 )
-
-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
